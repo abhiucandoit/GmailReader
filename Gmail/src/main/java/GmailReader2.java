@@ -11,7 +11,7 @@ import javax.mail.Store;
 
 /**
  *
- * @author nikhil.nishchal
+ * @author abhinay duppelly
  *
  */
 public class GmailReader2 {
